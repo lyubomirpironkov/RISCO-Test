@@ -1,0 +1,8 @@
+
+.vs/
+RISCOHelper/obj/
+RISCOHelper/bin/
+*.bak
+.vs/RISCOHelper/v17/.suo
+RISCOHelper.UnitTests/bin/
+RISCOHelper.UnitTests/obj/
